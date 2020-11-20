@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/riskyprsty/eruprsty/main/eru.jpg" width="120" height="120" align="left">
 
-<!--
-**eruprsty/eruprsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+<a href="https://www.facebook.com/eru.prsty.1"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/eru.prsty"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+ &nbsp;&nbsp; 
+<a href="https://pinterest.com/eruprsty"><img src="https://image.flaticon.com/icons/svg/174/174863.svg" alt="alt text" width="20" height="20"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+___
+___
+___
+## **About Me**
+
+_No more things_
+<br>
+_Just Pain_
+_Sabbe Sattā Bhavantu Sukhitattā_
+
+## **Stats**
+![Eru Prsty's github stats](https://github-readme-stats.vercel.app/api?username=eruprsty&theme=blueberry&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eruprsty&layout=compact&theme=radical)](https://github.com/eruprsty)
+
+## **Eru belongs to me**
+<img src="https://raw.githubusercontent.com/riskyprsty/eruprsty/main/mine.jpg" align="center">
